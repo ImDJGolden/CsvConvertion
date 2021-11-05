@@ -1,0 +1,10 @@
+C:\Users\michielve\Desktop\CsvConvertion\CsvConvertion\bin\Debug\CsvConvertion.exe.config
+C:\Users\michielve\Desktop\CsvConvertion\CsvConvertion\bin\Debug\CsvConvertion.exe
+C:\Users\michielve\Desktop\CsvConvertion\CsvConvertion\bin\Debug\CsvConvertion.pdb
+C:\Users\michielve\Desktop\CsvConvertion\CsvConvertion\obj\Debug\CsvConvertion.csproj.AssemblyReference.cache
+C:\Users\michielve\Desktop\CsvConvertion\CsvConvertion\obj\Debug\CsvConvertion.Properties.Resources.resources
+C:\Users\michielve\Desktop\CsvConvertion\CsvConvertion\obj\Debug\CsvConvertion.csproj.GenerateResource.cache
+C:\Users\michielve\Desktop\CsvConvertion\CsvConvertion\obj\Debug\CsvConvertion.csproj.CoreCompileInputs.cache
+C:\Users\michielve\Desktop\CsvConvertion\CsvConvertion\obj\Debug\CsvConvertion.exe
+C:\Users\michielve\Desktop\CsvConvertion\CsvConvertion\obj\Debug\CsvConvertion.pdb
+C:\Users\michielve\Desktop\CsvConvertion\CsvConvertion\obj\Debug\CsvConvertion.CSVConverter.resources
